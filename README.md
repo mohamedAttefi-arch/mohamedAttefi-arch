@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Mohamed Attefi
 
 > **Full-Stack Developer | Bug Whisperer | Coffee-to-Code Converter**  
-> *Age: 19 | Status: Turning caffeine into features since 2005*
+> *Age: 19 | Status: Turning caffeine into features since 2006*
 
 ## 🎯 About Me
 
@@ -40,11 +40,11 @@ const mohamed = {
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats (Yes, I commit at 3 AM)
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedAttefi-arch&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedAttefi-arch&layout=compact&theme=radical&hide_border=true)
 
 ## 🎮 What I'm Up To
 
