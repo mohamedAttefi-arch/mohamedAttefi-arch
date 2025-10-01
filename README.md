@@ -42,9 +42,9 @@ const mohamed = {
 
 ## 📊 GitHub Stats (Yes, I commit at 3 AM)
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedAttefi-arch&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedAttefi-arch&layout=compact&theme=radical&hide_border=true)
 
 ## 🎮 What I'm Up To
 
